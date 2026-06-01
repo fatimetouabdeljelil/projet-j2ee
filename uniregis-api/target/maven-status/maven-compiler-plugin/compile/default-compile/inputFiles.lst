@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\uniregis-api\src\main\java\com\uniregis\config\ApplicationConfig.java
+C:\Users\Lenovo\Desktop\uniregis-api\src\main\java\com\uniregis\config\DatabaseHealthCheck.java
+C:\Users\Lenovo\Desktop\uniregis-api\src\main\java\com\uniregis\config\DatabaseProducer.java
+C:\Users\Lenovo\Desktop\uniregis-api\src\main\java\com\uniregis\dto\InscriptionDTO.java
+C:\Users\Lenovo\Desktop\uniregis-api\src\main\java\com\uniregis\entity\Etudiant.java
+C:\Users\Lenovo\Desktop\uniregis-api\src\main\java\com\uniregis\entity\Inscription.java
+C:\Users\Lenovo\Desktop\uniregis-api\src\main\java\com\uniregis\entity\Statut.java
+C:\Users\Lenovo\Desktop\uniregis-api\src\main\java\com\uniregis\event\EventObserver.java
+C:\Users\Lenovo\Desktop\uniregis-api\src\main\java\com\uniregis\event\InscriptionEvent.java
+C:\Users\Lenovo\Desktop\uniregis-api\src\main\java\com\uniregis\resource\InscriptionResource.java
+C:\Users\Lenovo\Desktop\uniregis-api\src\main\java\com\uniregis\security\RolesConfig.java
+C:\Users\Lenovo\Desktop\uniregis-api\src\main\java\com\uniregis\service\InscriptionService.java
